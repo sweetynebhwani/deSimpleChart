@@ -1,0 +1,306 @@
+TdeSimpleChart
+v7
+r0
+t288390161.011601
+cCheck dependencies
+cProcessInfoPlistFile /Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/Info.plist deSimpleChart-Info.plist
+cCompileXIB /Users/duivesteyn/Desktop/deSimpleChart/MainWindow.xib
+cCompileXIB /Users/duivesteyn/Desktop/deSimpleChart/deSimpleChartViewController.xib
+cCpResource build/Debug-iphonesimulator/deSimpleChart.app/StockPageBG.png Classes/StockPageBG.png
+cProcessPCH /var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/deSimpleChart_Prefix-efansbwtbzjzvzdyfhgjpdhfdmyt/deSimpleChart_Prefix.pch.gch deSimpleChart_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/Objects-normal/i386/main.o /Users/duivesteyn/Desktop/deSimpleChart/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/Objects-normal/i386/deSimpleChartAppDelegate.o /Users/duivesteyn/Desktop/deSimpleChart/Classes/deSimpleChartAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/Objects-normal/i386/deSimpleChartViewController.o /Users/duivesteyn/Desktop/deSimpleChart/Classes/deSimpleChartViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/Objects-normal/i386/CKSparkline.o /Users/duivesteyn/Desktop/deSimpleChart/Classes/CKSparkline.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/deSimpleChart normal i386
+cGenerateDSYMFile /Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app.dSYM /Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/deSimpleChart
+cTouch /Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004A9F670A00000000000000EE
+t1251960586
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004A821911000000000026EE30
+t1250040081
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004A765094000000000027E880
+t1249267860
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004A7650820000000000001355
+t1249267842
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004A7C6E970000000000000788
+t1249668759
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004A7C6F5900000000016721E0
+t1249668953
+s23536096
+
+N/Users/duivesteyn/Desktop/deSimpleChart/Classes/CKSparkline.h
+c000000004B7FD66C00000000000001E3
+t1266669164
+s483
+i<UIKit/UIKit.h>
+
+N/Users/duivesteyn/Desktop/deSimpleChart/Classes/CKSparkline.m
+c000000004B7FD65B0000000000000BB7
+t1266669147
+s2999
+i"CKSparkline.h"
+
+N/Users/duivesteyn/Desktop/deSimpleChart/Classes/StockPageBG.png
+c000000004B7C657700000000000042C9
+t1266443639
+s17097
+
+N/Users/duivesteyn/Desktop/deSimpleChart/Classes/deSimpleChartAppDelegate.h
+c000000004B8042C20000000000000200
+t1266696898
+s512
+i<UIKit/UIKit.h>
+
+N/Users/duivesteyn/Desktop/deSimpleChart/Classes/deSimpleChartAppDelegate.m
+c000000004B8042C200000000000002BE
+t1266696898
+s702
+i"deSimpleChartAppDelegate.h"
+i"deSimpleChartViewController.h"
+
+N/Users/duivesteyn/Desktop/deSimpleChart/Classes/deSimpleChartViewController.h
+c000000004B80432A000000000000012B
+t1266697002
+s299
+i<UIKit/UIKit.h>
+i"CKSparkline.h"
+
+N/Users/duivesteyn/Desktop/deSimpleChart/Classes/deSimpleChartViewController.m
+c000000004B8044750000000000000B45
+t1266697333
+s2885
+i"deSimpleChartViewController.h"
+
+N/Users/duivesteyn/Desktop/deSimpleChart/MainWindow.xib
+c000000004B8042C2000000000000268E
+t1266696898
+s9870
+
+N/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app
+t1266697361
+s272
+
+N/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app.dSYM
+t1266697360
+s102
+
+N/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/Info.plist
+t1266697053
+s685
+
+N/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/MainWindow.nib
+t1266697053
+s1129
+
+N/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/PkgInfo
+t1266697053
+s8
+
+N/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/StockPageBG.png
+t1266697054
+s17097
+
+N/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/deSimpleChart
+t1266697360
+s27588
+
+N/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/deSimpleChartViewController.nib
+t1266697360
+s1057
+
+N/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/Objects-normal/i386/CKSparkline.o
+t1266697054
+s21464
+
+N/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/Objects-normal/i386/deSimpleChart.LinkFileList
+c000000004B80435D000000000000024E
+t1266697053
+s590
+
+N/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/Objects-normal/i386/deSimpleChartAppDelegate.o
+t1266697054
+s38252
+
+N/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/Objects-normal/i386/deSimpleChartViewController.o
+t1266697360
+s34964
+
+N/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/Objects-normal/i386/main.o
+t1266697054
+s5944
+
+N/Users/duivesteyn/Desktop/deSimpleChart/deSimpleChartViewController.xib
+c000000004B80448C00000000000045B5
+t1266697356
+s17845
+
+N/Users/duivesteyn/Desktop/deSimpleChart/deSimpleChart_Prefix.pch
+c000000004B8042C200000000000000C3
+t1266696898
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/duivesteyn/Desktop/deSimpleChart/main.m
+c000000004B8042C2000000000000016C
+t1266696898
+s364
+i<UIKit/UIKit.h>
+
+N/var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/deSimpleChart_Prefix-efansbwtbzjzvzdyfhgjpdhfdmyt/deSimpleChart_Prefix.pch.gch
+t1266697054
+s13026768
+
+NdeSimpleChart-Info.plist
+c000000004B8042F500000000000003E7
+t1266696949
+s999
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies288390160#288390160#0(0"0(0#1#0"4300907768#0"0#
+
+CCompileC build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/Objects-normal/i386/CKSparkline.o /Users/duivesteyn/Desktop/deSimpleChart/Classes/CKSparkline.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s288389854.829349
+e288389854.924667
+r1
+xCompileC
+xbuild/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/Objects-normal/i386/CKSparkline.o
+x/Users/duivesteyn/Desktop/deSimpleChart/Classes/CKSparkline.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@69"Compile /Users/duivesteyn/Desktop/deSimpleChart/Classes/CKSparkline.m288389854#288389854#0(0"0(0#0#61"/Users/duivesteyn/Desktop/deSimpleChart/Classes/CKSparkline.m4300907768#2010"    cd /Users/duivesteyn/Desktop/deSimpleChart    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/deSimpleChart-generated-files.hmap -I/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/deSimpleChart-own-target-headers.hmap -I/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/deSimpleChart-all-target-headers.hmap -iquote /Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/deSimpleChart-project-headers.hmap -F/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator -I/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/include -I/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/DerivedSources/i386 -I/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/DerivedSources -include /var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/deSimpleChart_Prefix-efansbwtbzjzvzdyfhgjpdhfdmyt/deSimpleChart_Prefix.pch -c /Users/duivesteyn/Desktop/deSimpleChart/Classes/CKSparkline.m -o /Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/Objects-normal/i386/CKSparkline.o0#
+
+CCompileC build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/Objects-normal/i386/deSimpleChartAppDelegate.o /Users/duivesteyn/Desktop/deSimpleChart/Classes/deSimpleChartAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s288389854.742712
+e288389854.829232
+r1
+xCompileC
+xbuild/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/Objects-normal/i386/deSimpleChartAppDelegate.o
+x/Users/duivesteyn/Desktop/deSimpleChart/Classes/deSimpleChartAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/duivesteyn/Desktop/deSimpleChart/Classes/deSimpleChartAppDelegate.m288389854#288389854#0(0"0(0#0#74"/Users/duivesteyn/Desktop/deSimpleChart/Classes/deSimpleChartAppDelegate.m4300907768#2036"    cd /Users/duivesteyn/Desktop/deSimpleChart    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/deSimpleChart-generated-files.hmap -I/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/deSimpleChart-own-target-headers.hmap -I/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/deSimpleChart-all-target-headers.hmap -iquote /Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/deSimpleChart-project-headers.hmap -F/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator -I/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/include -I/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/DerivedSources/i386 -I/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/DerivedSources -include /var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/deSimpleChart_Prefix-efansbwtbzjzvzdyfhgjpdhfdmyt/deSimpleChart_Prefix.pch -c /Users/duivesteyn/Desktop/deSimpleChart/Classes/deSimpleChartAppDelegate.m -o /Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/Objects-normal/i386/deSimpleChartAppDelegate.o0#
+
+CCompileC build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/Objects-normal/i386/deSimpleChartViewController.o /Users/duivesteyn/Desktop/deSimpleChart/Classes/deSimpleChartViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s288390160.653119
+e288390160.780126
+r1
+xCompileC
+xbuild/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/Objects-normal/i386/deSimpleChartViewController.o
+x/Users/duivesteyn/Desktop/deSimpleChart/Classes/deSimpleChartViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@85"Compile /Users/duivesteyn/Desktop/deSimpleChart/Classes/deSimpleChartViewController.m288390160#288390160#0(0"0(0#0#77"/Users/duivesteyn/Desktop/deSimpleChart/Classes/deSimpleChartViewController.m4300907768#2042"    cd /Users/duivesteyn/Desktop/deSimpleChart    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/deSimpleChart-generated-files.hmap -I/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/deSimpleChart-own-target-headers.hmap -I/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/deSimpleChart-all-target-headers.hmap -iquote /Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/deSimpleChart-project-headers.hmap -F/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator -I/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/include -I/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/DerivedSources/i386 -I/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/DerivedSources -include /var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/deSimpleChart_Prefix-efansbwtbzjzvzdyfhgjpdhfdmyt/deSimpleChart_Prefix.pch -c /Users/duivesteyn/Desktop/deSimpleChart/Classes/deSimpleChartViewController.m -o /Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/Objects-normal/i386/deSimpleChartViewController.o0#
+
+CCompileC build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/Objects-normal/i386/main.o /Users/duivesteyn/Desktop/deSimpleChart/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s288389854.741166
+e288389854.811949
+r1
+xCompileC
+xbuild/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/Objects-normal/i386/main.o
+x/Users/duivesteyn/Desktop/deSimpleChart/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/duivesteyn/Desktop/deSimpleChart/main.m288389854#288389854#0(0"0(0#0#46"/Users/duivesteyn/Desktop/deSimpleChart/main.m4300907768#1988"    cd /Users/duivesteyn/Desktop/deSimpleChart    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/deSimpleChart-generated-files.hmap -I/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/deSimpleChart-own-target-headers.hmap -I/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/deSimpleChart-all-target-headers.hmap -iquote /Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/deSimpleChart-project-headers.hmap -F/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator -I/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/include -I/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/DerivedSources/i386 -I/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/DerivedSources -include /var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/deSimpleChart_Prefix-efansbwtbzjzvzdyfhgjpdhfdmyt/deSimpleChart_Prefix.pch -c /Users/duivesteyn/Desktop/deSimpleChart/main.m -o /Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/duivesteyn/Desktop/deSimpleChart/MainWindow.xib
+s288389853.670199
+e288389853.996551
+r1
+xCompileXIB
+x/Users/duivesteyn/Desktop/deSimpleChart/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib288389853#288389853#0(0"0(0#0#54"/Users/duivesteyn/Desktop/deSimpleChart/MainWindow.xib4300907768#489"    cd /Users/duivesteyn/Desktop/deSimpleChart    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/MainWindow.nib /Users/duivesteyn/Desktop/deSimpleChart/MainWindow.xib0#
+
+CCompileXIB /Users/duivesteyn/Desktop/deSimpleChart/deSimpleChartViewController.xib
+s288390160.313435
+e288390160.652703
+r1
+xCompileXIB
+x/Users/duivesteyn/Desktop/deSimpleChart/deSimpleChartViewController.xib
+lSLF07#2@42"CompileXIB deSimpleChartViewController.xib288390160#288390160#0(0"0(0#0#71"/Users/duivesteyn/Desktop/deSimpleChart/deSimpleChartViewController.xib18859334547341416#523"    cd /Users/duivesteyn/Desktop/deSimpleChart    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/deSimpleChartViewController.nib /Users/duivesteyn/Desktop/deSimpleChart/deSimpleChartViewController.xib0#
+
+CCpResource build/Debug-iphonesimulator/deSimpleChart.app/StockPageBG.png Classes/StockPageBG.png
+s288389853.996652
+e288389854.002500
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/deSimpleChart.app/StockPageBG.png
+xClasses/StockPageBG.png
+lSLF07#2@28"Copy Classes/StockPageBG.png288389853#288389854#0(0"0(0#0#63"/Users/duivesteyn/Desktop/deSimpleChart/Classes/StockPageBG.png4300907768#476"    cd /Users/duivesteyn/Desktop/deSimpleChart    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/duivesteyn/Desktop/deSimpleChart/Classes/StockPageBG.png /Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app0#
+
+CGenerateDSYMFile /Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app.dSYM /Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/deSimpleChart
+s288390160.968466
+e288390160.985426
+r1
+xGenerateDSYMFile
+x/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app.dSYM
+x/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/deSimpleChart
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/deSimpleChart.app.dSYM build/Debug-iphonesimulator/deSimpleChart.app/deSimpleChart288390160#288390160#0(0"0(0#0#99"/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/deSimpleChart4300907768#404"    cd /Users/duivesteyn/Desktop/deSimpleChart    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/deSimpleChart -o /Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app.dSYM0#
+
+CLd /Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/deSimpleChart normal i386
+s288390160.780215
+e288390160.968362
+r1
+xLd
+x/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/deSimpleChart
+xnormal
+xi386
+lSLF07#2@104"Link /Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/deSimpleChart288390160#288390160#0(0"0(0#0#0"4300907768#897"    cd /Users/duivesteyn/Desktop/deSimpleChart    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -L/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator -F/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator -filelist /Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/Objects-normal/i386/deSimpleChart.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/deSimpleChart0#
+
+CProcessInfoPlistFile /Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/Info.plist deSimpleChart-Info.plist
+s288389853.666389
+e288389853.670107
+r1
+xProcessInfoPlistFile
+x/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/Info.plist
+xdeSimpleChart-Info.plist
+lSLF07#2@32"Process deSimpleChart-Info.plist288389853#288389853#0(0"0(0#0#64"/Users/duivesteyn/Desktop/deSimpleChart/deSimpleChart-Info.plist4300907768#500"    cd /Users/duivesteyn/Desktop/deSimpleChart    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility deSimpleChart-Info.plist -genpkginfo /Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app/Info.plist0#
+
+CProcessPCH /var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/deSimpleChart_Prefix-efansbwtbzjzvzdyfhgjpdhfdmyt/deSimpleChart_Prefix.pch.gch deSimpleChart_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s288389854.012748
+e288389854.741053
+r1
+xProcessPCH
+x/var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/deSimpleChart_Prefix-efansbwtbzjzvzdyfhgjpdhfdmyt/deSimpleChart_Prefix.pch.gch
+xdeSimpleChart_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile deSimpleChart_Prefix.pch288389854#288389854#0(0"0(0#0#64"/Users/duivesteyn/Desktop/deSimpleChart/deSimpleChart_Prefix.pch4300907768#1873"    cd /Users/duivesteyn/Desktop/deSimpleChart    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/deSimpleChart-generated-files.hmap -I/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/deSimpleChart-own-target-headers.hmap -I/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/deSimpleChart-all-target-headers.hmap -iquote /Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/deSimpleChart-project-headers.hmap -F/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator -I/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/include -I/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/DerivedSources/i386 -I/Users/duivesteyn/Desktop/deSimpleChart/build/deSimpleChart.build/Debug-iphonesimulator/deSimpleChart.build/DerivedSources -c /Users/duivesteyn/Desktop/deSimpleChart/deSimpleChart_Prefix.pch -o /var/folders/r6/r6T-g5rFFjq3YwGNPEgXbU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/deSimpleChart_Prefix-efansbwtbzjzvzdyfhgjpdhfdmyt/deSimpleChart_Prefix.pch.gch0#
+
+CTouch /Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app
+s288390160.985522
+e288390161.011539
+r1
+xTouch
+x/Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app
+lSLF07#2@91"Touch /Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app288390160#288390161#0(0"0(0#0#0"4300907768#286"    cd /Users/duivesteyn/Desktop/deSimpleChart    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/duivesteyn/Desktop/deSimpleChart/build/Debug-iphonesimulator/deSimpleChart.app0#
+
